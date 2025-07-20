@@ -59,7 +59,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  min-height: 757px; 
+  min-height: 757px;
   background-image: url(/images/cover.jpg);
   background-position: center;
   background-size: cover;
@@ -94,13 +94,13 @@
   font-weight: 700;
   font-size: 100px;
   letter-spacing: 0.3em;
-  text-transform: uppercase; 
+  text-transform: uppercase;
 }
 
 .aligned-text_center {
-  align-self: center; 
+  align-self: center;
   margin-left: -0.3em;
-  transform: translateX(30px); 
+  transform: translateX(30px);
 }
 
 .aligned-text_right {
